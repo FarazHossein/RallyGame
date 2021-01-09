@@ -1,0 +1,8 @@
+Mahmoud Rally 8 -Supreme- is a time-trial racing game.
+Your goal is to race around the track in the least amount of time.
+In order to win the game, you must finish faster than the current best time. If you fail, you lose.
+You must follow the track as there are checkpoints. If you go off the track, you will slow down.
+W - Accelerate
+S - Brake/Reverse
+A - Steer Left
+D - Steer Right
